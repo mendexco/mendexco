@@ -1,19 +1,19 @@
 ## Oi! Eu sou o Vitor
-
-- 🔭 Hoje eu estudo na SPTECH
-
-<div>
+- 📕 Estudante na SPTECH
+- 🤖 Análise e Desenvolvimento de Sistemas
+- ⚽ 1/4 Semestres
+#
 <div align="center">
   <a href="https://github.com/VitorMendesco" target="_blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorMendesco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMendesco&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div align="center" style="display: inline_block;"><br>
+ 
+<div align="center" style="display: inline_block;">
   <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Ryu-pic" height="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/f7/97/50/f797506acc4fbdcfe6cf59a7db0fc79f.png">
-</div>
 </div>
   
   ##
