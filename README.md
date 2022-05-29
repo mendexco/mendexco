@@ -1,7 +1,6 @@
 ## Oi! Eu sou o Vitor
 
-- 🔭 Futuro estagiário
-- 🌱 Hoje eu estudo na SPTECH
+- 🔭 Hoje eu estudo na SPTECH
 
 <div align="center">
   <a href="https://github.com/VitorMendesco" target="_blank">
@@ -18,8 +17,8 @@
   ##
   
   <div> 
+   <a href="https://www.linkedin.com/in/vitor-mendesco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:vitormendesco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC0284--bjwmX8k7Y-sQkMsw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_mendesco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vitormendesco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-mendesco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
