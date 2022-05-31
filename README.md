@@ -1,7 +1,7 @@
 ### Call me Vitor
-- 📕 Estudante na SPTECH
-- 🤖 Análise e Desenvolvimento de Sistemas
-- ⚽ 1/4 Semestres
+- 📕 Student at São Paulo Tech School
+- 🤖 Analysis and System Development
+- ⚽ 1/4 Semesters
 ##
 <br />
 <div align="center">
