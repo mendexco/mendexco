@@ -1,4 +1,4 @@
-### Oi! Eu sou o Vitor
+### Call me Vitor
 - 📕 Estudante na SPTECH
 - 🤖 Análise e Desenvolvimento de Sistemas
 - ⚽ 1/4 Semestres
