@@ -1,7 +1,7 @@
 ### Welcome, I'm Vitor
 - 📕 Student at São Paulo Tech School
 - 🤖 Analysis and System Development
-- ⚽ 1/4 Semesters
+- ⚽ 1/4 Completion
 ##
 <br />
 <div align="center">
