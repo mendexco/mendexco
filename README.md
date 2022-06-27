@@ -1,6 +1,6 @@
 ### Welcome, I'm Vitor
 - 📕 Student at São Paulo Tech School
-- 🤖 Full Stack Development
+- 🤖 Full Stack Developer
 - ⚽ 1/4 Completion
 ##
 <br />
