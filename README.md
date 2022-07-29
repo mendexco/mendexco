@@ -1,6 +1,7 @@
 ### Welcome, I'm Vitor
-- 📕 Student at São Paulo Tech School
 - 🤖 Full Stack Developer
+- 📕 Student at SPTech
+- 💼 Intern at C6 Bank
 - ⚽ 1/4 Completion
 ##
 <br />
