@@ -2,7 +2,7 @@
 - 🤖 Full Stack Developer
 - 📕 Student at SPTech
 - 💼 Intern at C6 Bank
-- ⚽ 1/4 Completion
+- ⚽ 2/4 Completion
 ##
 <br />
 <div align="center">
