@@ -1,8 +1,7 @@
 ### Welcome, I'm Vitor
 - 🤖 Full Stack Developer
-- 📕 Student at SPTech
-- 💼 Intern at C6 Bank
-- ⚽ 2/4 Completion
+- 📕 Graduated at SPTech
+- 💼 Junior Frontend Developer at C6 Bank
 ##
 <br />
 <div align="center">
