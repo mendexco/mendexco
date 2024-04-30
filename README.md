@@ -1,6 +1,6 @@
 ### Welcome, I'm Vitor
 - 💼 Frontend Developer at C6 Bank
-- 📕 FulStack Graduated at SPTech
+- 📕 FullStack Graduated at SPTech
 ##
 <br />
 <div align="center">
